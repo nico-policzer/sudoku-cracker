@@ -106,6 +106,7 @@ class SudokuCrackerTest(unittest.TestCase):
     p1_almost_solved_block_60 = [6, 8, 3, 2, 1, 5, 7, 4, 0]
 
     # So called "Hardest Sudoku ever made" - Arto Inkala
+    # https://abcnews.go.com/blogs/headlines/2012/06/can-you-solve-the-hardest-ever-sudoku
     arto_inkala_sudoku = [8, 0, 0, 0, 0, 0, 0, 0, 0,
                           0, 0, 3, 6, 0, 0, 0, 0, 0,
                           0, 7, 0, 0, 9, 0, 2, 0, 0,
